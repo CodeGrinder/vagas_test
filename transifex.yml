@@ -5,7 +5,7 @@ filters:
     source_language: pt-BR
     source_file: src/locales/pt-BR.json
       # path expression to translation files, must contain <lang> placeholder
-    translation_files_expression: "src/locales/<lang>.json"
+    translation_files_expression: src/locales/<lang>.json
 settings:
   language_mapping:
     pt_BR: pt-BR
