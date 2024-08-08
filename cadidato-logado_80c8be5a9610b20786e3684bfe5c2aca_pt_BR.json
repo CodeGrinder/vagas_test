@@ -1,0 +1,1314 @@
+{
+  "CVbom": {
+    "string": "Seu currículo está incompleto"
+  },
+  "CVcompleto": {
+    "string": "Parabéns! Seu curriculo está completo"
+  },
+  "CVincompleto": {
+    "string": "Preencha seu currículo para se candidatar"
+  },
+  "CVotimo": {
+    "string": "Falta pouco para completar seu currículo!"
+  },
+  "abril": {
+    "string": "Abril"
+  },
+  "abrirBusca": {
+    "string": "Abrir campo de busca"
+  },
+  "abrirMenu": {
+    "string": "Abrir menu do cabeçalho"
+  },
+  "acesse.pagina.ajuda": {
+    "string": "Não recebeu o e-mail? Acesse nossa página de ajuda"
+  },
+  "add.area.interesse": {
+    "string": "adicionar área de interesse"
+  },
+  "additionalInfo": {
+    "string": "Informações complementares"
+  },
+  "address.cep": {
+    "string": "CEP"
+  },
+  "address.country": {
+    "string": "País"
+  },
+  "address.forgotZipcode": {
+    "string": "Esqueci meu CEP"
+  },
+  "address.neighborhood": {
+    "string": "Bairro"
+  },
+  "address.state": {
+    "string": "Estado"
+  },
+  "address.state.region": {
+    "string": "Estado/Província/Região"
+  },
+  "address.zipcode": {
+    "string": "Código Postal"
+  },
+  "adicionarCurso": {
+    "string": "adicionar curso"
+  },
+  "adicionarEmpresa": {
+    "string": "adicionar empresa"
+  },
+  "adicionarFoto": {
+    "string": "Adicionar Foto"
+  },
+  "adicionarIdioma": {
+    "string": "Adicionar idioma"
+  },
+  "adicionardocumento": {
+    "string": "Adicionar documento"
+  },
+  "agosto": {
+    "string": "Agosto"
+  },
+  "ajuda": {
+    "string": "Ajuda"
+  },
+  "alerta.ordem.cronologica": {
+    "string": "Elas serão automaticamente colocadas em ordem cronológica inversa."
+  },
+  "alerta.ordem.experiencias": {
+    "string": "Não se preocupe com a ordem das experiências."
+  },
+  "alertasDeVagas": {
+    "string": "Alertas de vagas"
+  },
+  "alteracoes.fala": {
+    "string": "Grandes alterações na fala"
+  },
+  "alterarFoto": {
+    "string": "Alterar Foto"
+  },
+  "amputacao": {
+    "string": "Amputação ou ausência de membro"
+  },
+  "anacusia": {
+    "string": "Anacusia"
+  },
+  "anexar.audiometria": {
+    "string": "Anexar Audiometria"
+  },
+  "anexar.laudo": {
+    "string": "Anexar laudo"
+  },
+  "anoConclusao": {
+    "string": "Selecione o ano de conclusão"
+  },
+  "anoEMesAnterioresAtual": {
+    "string": "Mês e ano de conclusão devem ser anteriores à data atual"
+  },
+  "anoEMesDeConclusaoForm.required": {
+    "string": "Selecione o mês e o ano de conclusão"
+  },
+  "anoEMesPosterioresAtual": {
+    "string": "Mês e ano de conclusão devem ser posteriores à data atual"
+  },
+  "anoInicialObrigatorio": {
+    "string": "O campo inicio é obrigatório"
+  },
+  "anoTerminoObrigatorio": {
+    "string": "O campo término é obrigatório"
+  },
+  "aoMenosUmaPosicaoObrigatorio": {
+    "string": "Selecione pelo menos uma opção."
+  },
+  "apply.job": {
+    "string": "É necessário preencher seu currículo para conseguir se candidatar a vaga: {cargo}"
+  },
+  "area.cargo": {
+    "string": "Área"
+  },
+  "areaDaPosForm.required": {
+    "string": "O campo área da pós é obrigatório"
+  },
+  "areaObrigatorio": {
+    "string": "O campo área é obrigatório"
+  },
+  "areas_de_interesse": {
+    "string": "Áreas de interesse"
+  },
+  "ariaBusca": {
+    "string": "Buscar"
+  },
+  "arquivo.anexado": {
+    "string": "Arquivo anexado:"
+  },
+  "arquivo.anexado.em": {
+    "string": "Arquivo anexado em"
+  },
+  "atual": {
+    "string": "atual"
+  },
+  "atualmente": {
+    "string": "atualmente"
+  },
+  "auditiva": {
+    "string": "Auditiva"
+  },
+  "avancada": {
+    "string": "Avançada"
+  },
+  "baixa.visao": {
+    "string": "Visão Subnormal ou Baixa Visão"
+  },
+  "basica": {
+    "string": "Básica"
+  },
+  "beneficios": {
+    "string": "Benefícios"
+  },
+  "bilateral": {
+    "string": "bilateral"
+  },
+  "breadcrumb": {
+    "string": "Barra de navegação"
+  },
+  "campo.obrigatorio": {
+    "string": "O campo é obrigatório."
+  },
+  "can.apply": {
+    "string": "Você já pode se candidatar à vaga, mas completar seu currículo aumenta suas chances :)"
+  },
+  "cancelar": {
+    "string": "CANCELAR"
+  },
+  "cannot.apply": {
+    "string": "Para conseguir se candidatar a vagas é necessário completar seu currículo"
+  },
+  "caracteresInvalidos": {
+    "string": "Caracteres inválidos! Use letras (a-z), números (0-9) ou pontos (.)."
+  },
+  "cargo": {
+    "string": "Cargo"
+  },
+  "cargo.grande": {
+    "string": "O cargo é muito grande."
+  },
+  "cargo_desejado": {
+    "string": "Cargo desejado"
+  },
+  "carregando": {
+    "string": "Carregando..."
+  },
+  "cegueira": {
+    "string": "Cegueira"
+  },
+  "cem": {
+    "string": "Cidades no raio de 100 km de"
+  },
+  "cento.cinquenta": {
+    "string": "Cidades no raio de 150 km de"
+  },
+  "cento.vinte.cinco": {
+    "string": "Cidades no raio de 125 km de"
+  },
+  "cep.grande": {
+    "string": "Código postal é muito grande"
+  },
+  "cep.invalido": {
+    "string": "O campo CEP é inválido"
+  },
+  "cep.nao.encontrado": {
+    "string": "CEP não encontrado"
+  },
+  "cidadeIdForm.required": {
+    "string": "O campo cidade é obrigatório"
+  },
+  "cinquenta": {
+    "string": "Cidades no raio de 50 km de"
+  },
+  "cisgeneroDesc": {
+    "string": "<strong>Cisgênero:</strong> pessoa que se identifica com o gênero (homem/mulher) atribuído no nascimento."
+  },
+  "city": {
+    "string": "Cidade"
+  },
+  "classificacaoDoCursoForm.required": {
+    "string": "O campo classificação do curso é obrigatório"
+  },
+  "classifiqueOcupacoes": {
+    "string": "Classifique suas 3 principais ocupações na empresa:"
+  },
+  "classifiqueOcupacoesMensagem": {
+    "string": "Classifique até 3 principais ocupações que exerceu ou exerce atualmente na empresa. Se ainda estiver exercendo uma ocupação, não preencha o ano final."
+  },
+  "complementaryCourses.area": {
+    "string": "Área de pós"
+  },
+  "complementaryCourses.classification": {
+    "string": "Classificação do curso"
+  },
+  "complementaryCourses.conclusionDate": {
+    "string": "Mês/Ano de Conclusão"
+  },
+  "complementaryCourses.conclusionDateInfo": {
+    "string": "Caso você ainda esteja cursando, inclua o Mês/Ano de conclusão previsto para o término do curso."
+  },
+  "complementaryCourses.courseName": {
+    "string": "Nome do curso"
+  },
+  "complementaryCourses.courseType": {
+    "string": "Tipo de curso"
+  },
+  "complementaryCourses.currentSituation": {
+    "string": "Situação Atual"
+  },
+  "complementaryCourses.duration": {
+    "string": "Duração do curso"
+  },
+  "complementaryCourses.editCourse.part1": {
+    "string": "Adicione as informações de seus cursos de Ensino Fundamental, Médio, Superior ou cursos complementares."
+  },
+  "complementaryCourses.editCourse.part2": {
+    "string": "Não se preocupe, as informações serão exibidas em ordem cronológica."
+  },
+  "complementaryCourses.institution": {
+    "string": "Instituição"
+  },
+  "complementaryCourses.long": {
+    "string": "Longa (acima de 360 horas)"
+  },
+  "complementaryCourses.medium": {
+    "string": "Média (acima de 40 horas, até 360 horas)"
+  },
+  "complementaryCourses.short": {
+    "string": "Curta (até 40 horas)"
+  },
+  "comunicacao": {
+    "string": "Comunicação"
+  },
+  "concluir.alteracao": {
+    "string": "Para concluir a alteração clique no link que enviamos para:"
+  },
+  "concluir.alteracao.email": {
+    "string": "Para concluir a alteração do e-mail, clique no link que enviamos para <strong>{email}</strong>"
+  },
+  "confidencial": {
+    "string": "Confidencial"
+  },
+  "confidencialDesc": {
+    "string": "Empresas encontram seu currículo em modo confidencial (não são apresentados dados pessoais como nome, e-mail, telefone, etc. Também não é apresentado o nome das empresas onde trabalhou nem o período exato de trabalho). Para entrar em contato com você é necessário prévia autorização."
+  },
+  "configsPrivacidade": {
+    "string": "Configurações de privacidade"
+  },
+  "configuracoes": {
+    "string": "Configurações"
+  },
+  "confira.formato": {
+    "string": "Confira o formato (DOC, DOCX, ODT, PDF, JPG, JPEG e PNG), tamanho do arquivo (máximo 6MB) e tente novamente"
+  },
+  "contactInfo.acceptAlerts": {
+    "string": "Aceito receber mensagens sobre meus processos seletivos (SMS e WhatsApp)"
+  },
+  "contactInfo.cellphone": {
+    "string": "Celular"
+  },
+  "contactInfo.contactInfo": {
+    "string": "Informações de contato"
+  },
+  "contactInfo.mobile": {
+    "string": "Telefone Celular"
+  },
+  "contactInfo.not.cell": {
+    "string": "Nenhum celular informado"
+  },
+  "contactInfo.not.telephone": {
+    "string": "Nenhum telefone informado"
+  },
+  "contactInfo.telephone": {
+    "string": "Telefone"
+  },
+  "continue.acessando.vagas": {
+    "string": "Até lá, continue acessando o VAGAS com seu e-mail antigo."
+  },
+  "conversacao": {
+    "developer_comment": "capacidade de conversação em um determinado idioma",
+    "string": "conversação"
+  },
+  "conversacao.obrigatorio": {
+    "string": "O campo conversação é obrigatório"
+  },
+  "country": {
+    "string": "País onde cursou"
+  },
+  "cpf.valido": {
+    "string": "Digite um CPF válido"
+  },
+  "cuidado.pessoal": {
+    "string": "Cuidado pessoal"
+  },
+  "curriculo": {
+    "string": "Currículo"
+  },
+  "curriculo.aberto": {
+    "string": "Visualizar currículo aberto"
+  },
+  "curriculo.description": {
+    "string": "<strong>Atenção:</strong> quando você se candidata a uma vaga, a empresa recebe um link para visualizar o seu currículo on-line. Assim, tenha cuidado ao realizar modificações para uma vaga específica, pois todas as empresas terão acesso às alterações realizadas."
+  },
+  "curriculo.objetivos": {
+    "string": "Objetivos"
+  },
+  "curriculo.outrosObjetivos": {
+    "string": "Outros Objetivos"
+  },
+  "curriculo.ultimoSalarioBeneficios": {
+    "string": "Último Salário e benefícios"
+  },
+  "curriculoPDF.download": {
+    "string": "Download do currículo"
+  },
+  "cursos": {
+    "string": "Cursos"
+  },
+  "dadosPessoais": {
+    "string": "Dados pessoais"
+  },
+  "dados_pessoais": {
+    "string": "Dados pessoais"
+  },
+  "data.referencia": {
+    "string": "Data de referência"
+  },
+  "dataInicioObrigatorio": {
+    "string": "O campo início é obrigatório."
+  },
+  "dataTerminoObrigatorio": {
+    "string": "O campo término é obrigatório."
+  },
+  "date.less.current.": {
+    "string": "Selecione uma data inferior a data atual"
+  },
+  "declaracao_racial": {
+    "string": "Declaração racial"
+  },
+  "deficiencia.renal": {
+    "string": "Deficiência Crônica Renal"
+  },
+  "deformidade": {
+    "string": "Membros com deformidade congênita ou adquirida"
+  },
+  "descDeclaracaoRacial": {
+    "string": "A pergunta a seguir não é obrigatória. Apenas empresas que assinarem um termo de compromisso com a inclusão poderão utilizar a autodeclaração de raça."
+  },
+  "descricao": {
+    "string": "Descrição"
+  },
+  "descricaoInfoAdicional": {
+    "string": "Texto livre para você complementar seu currículo. Você pode mencionar, por exemplo, certificados relevantes em sua profissão, outras atividades e interesses, etc."
+  },
+  "descricaoObrigatorio": {
+    "string": "O campo descrição é obrigatório."
+  },
+  "desired.agree.travel": {
+    "string": "Aceita viajar pela empresa."
+  },
+  "desired.consider.other.regions": {
+    "string": "Aceita considerar propostas de outras regiões."
+  },
+  "desired.nivel": {
+    "string": "no nível"
+  },
+  "desired.region": {
+    "string": "Preferência pela região de"
+  },
+  "desired.region.radius": {
+    "string": "ou num raio de"
+  },
+  "desired.salary.value": {
+    "string": "Faixa de"
+  },
+  "detalhamento.deficiencia.visual": {
+    "string": "Detalhamento de deficiência visual"
+  },
+  "detalhe.deficiencia.fisica": {
+    "string": "Detalhamento de deficiência física"
+  },
+  "dezembro": {
+    "string": "Dezembro"
+  },
+  "documento.obrigatorio": {
+    "string": "O campo número do documento é obrigatório"
+  },
+  "downloadCv": {
+    "string": "Download do currículo em PDF"
+  },
+  "dtExpProfissional": {
+    "string": "de {dti} a {dtf}"
+  },
+  "dtiExpProfissional": {
+    "string": "desde {data}"
+  },
+  "duracaoIdForm.required": {
+    "string": "O campo duração do curso é obrigatório"
+  },
+  "edit": {
+    "string": "Editar"
+  },
+  "em": {
+    "string": "em"
+  },
+  "emailEditForm.confirmEmail": {
+    "string": "Confirmar novo e-mail"
+  },
+  "emailEditForm.confirmEmailRequired": {
+    "string": "O campo confirmar novo e-mail é obrigatório"
+  },
+  "emailEditForm.currentPassword": {
+    "string": "Sua senha atual"
+  },
+  "emailEditForm.currentPasswordRequired": {
+    "string": "O campo sua senha atual é obrigatório"
+  },
+  "emailEditForm.email": {
+    "string": "E-mail"
+  },
+  "emailEditForm.emailDontMatch": {
+    "string": "E-mail e confirmação e-mail não conferem."
+  },
+  "emailEditForm.newEmailRequired": {
+    "string": "O campo novo e-mail é obrigatório"
+  },
+  "emailEditForm.profileAssociated": {
+    "string": "Este e-mail já está associado a outro perfil."
+  },
+  "emailEditForm.typePassword": {
+    "string": "Digite a senha do Vagas."
+  },
+  "emailEditForm.validEmail": {
+    "string": "Insira um e-mail válido."
+  },
+  "empregoAtual": {
+    "string": "Se este for o seu emprego atual deixe o término em branco."
+  },
+  "empresa": {
+    "string": "Empresa"
+  },
+  "empresaObrigatorio": {
+    "string": "O campo empresa é obrigatório."
+  },
+  "empresas": {
+    "string": "Empresas"
+  },
+  "endereco": {
+    "string": "Endereço"
+  },
+  "erro.formato.arquivo": {
+    "string": "Não foi possível anexar o arquivo!"
+  },
+  "erroNome": {
+    "string": "Erro ao carregar nome"
+  },
+  "erroUpdate": {
+    "string": "Erro ao atualizar, tente novamente!"
+  },
+  "error.invalidMonth": {
+    "string": "Numero do mês invalido"
+  },
+  "error.loading.course": {
+    "string": "Erro ao carregar as informações do curso."
+  },
+  "escolaridade": {
+    "string": "Escolaridade"
+  },
+  "escrita": {
+    "developer_comment": "capacidade de escrita em um determinado idioma",
+    "string": "escrita"
+  },
+  "escrita.obrigatorio": {
+    "string": "O campo escrita é obrigatório"
+  },
+  "excluirConta": {
+    "string": "Excluir conta"
+  },
+  "excluirFoto": {
+    "string": "Excluir Foto"
+  },
+  "exemplos.beneficios": {
+    "string": "Benefícios não monetários que recebe ou recebia, como vale refeição, vale transporte, etc."
+  },
+  "exemplos.cargos": {
+    "string": "Exemplos: Recepcionista, Consultor de Vendas, Técnico em Edificações, etc."
+  },
+  "faixaSalarial": {
+    "string": "{prefix} {simbolo} {valor},00 ({descricao}) em {data}."
+  },
+  "fala": {
+    "string": "Fala"
+  },
+  "fechar": {
+    "string": "Fechar"
+  },
+  "fechar.propaganda": {
+    "string": "Fechar propaganda"
+  },
+  "fevereiro": {
+    "string": "Fevereiro"
+  },
+  "fim.anterior.atual": {
+    "string": "Mês e ano de fim devem ser anteriores à data atual"
+  },
+  "finalAnteriorInicial": {
+    "string": "O ano de término deve ser igual ou posterior à data de início na empresa"
+  },
+  "finalize.application": {
+    "string": "Finalizar candidatura"
+  },
+  "fisica": {
+    "string": "Física"
+  },
+  "fluente": {
+    "string": "Fluente"
+  },
+  "formacao": {
+    "string": "Formação"
+  },
+  "formacaoAcademica": {
+    "string": "Formação Acadêmica e complementar"
+  },
+  "formacao_academica_e_complementar": {
+    "string": "Formação Acadêmica e complementar"
+  },
+  "formatoArquivo": {
+    "string": "Os formatos aceitos são JPG e PNG"
+  },
+  "formatos.arquivos": {
+    "string": "Formatos: DOC, DOCX, ODT, PDF, JPG, JPEG e PNG (máximo 6MB)"
+  },
+  "foto": {
+    "string": "Foto"
+  },
+  "fotoPerfil": {
+    "string": "Foto de perfil do usuário"
+  },
+  "genero.required": {
+    "string": "O campo identidade de gênero é obrigatório"
+  },
+  "geral": {
+    "string": "Geral"
+  },
+  "habilidade.academica": {
+    "string": "Habilidade acadêmica"
+  },
+  "habilidade.social": {
+    "string": "Habilidade social"
+  },
+  "hemiparesia": {
+    "string": "Hemiparesia"
+  },
+  "hemiplegia": {
+    "string": "Hemiplegia"
+  },
+  "historico": {
+    "string": "Histórico"
+  },
+  "historicoProfissional": {
+    "string": "Histórico profissional"
+  },
+  "historico_profissional": {
+    "string": "Histórico profissional"
+  },
+  "idioma.obrigatorio": {
+    "string": "O campo idioma é obrigatório"
+  },
+  "idiomaLabel": {
+    "string": "Idioma"
+  },
+  "idiomas": {
+    "string": "Idiomas"
+  },
+  "include.compatible.course": {
+    "string": "Inclua um curso compatível com sua formação para conseguir se candidatar a vagas de emprego"
+  },
+  "inclusaoRacial": {
+    "string": "Inclusão Racial"
+  },
+  "indique.cargo.desejado": {
+    "string": "Indique o cargo desejado."
+  },
+  "informacoes_complementares": {
+    "string": "Informações complementares"
+  },
+  "informacoes_de_contato": {
+    "string": "Informações de contato"
+  },
+  "inicialPosteriorFinal": {
+    "string": "O ano inicial deve ser igual ou anterior à data de término na empresa"
+  },
+  "inicio": {
+    "developer_comment": "Refere-se ao mês e ano de inicio da experiência profissional na empresa",
+    "string": "Início"
+  },
+  "inicio.anterior.atual": {
+    "string": "Mês e ano de início devem ser anteriores à data atual"
+  },
+  "inicio.cargo": {
+    "string": "Inicio"
+  },
+  "instituicaoForm.required": {
+    "string": "O campo instituição é obrigatório"
+  },
+  "intelectual.mental": {
+    "string": "Intelectual/Mental"
+  },
+  "intermediaria": {
+    "string": "Intermediária"
+  },
+  "interprete": {
+    "string": "Precisa de intérprete"
+  },
+  "invalid.password": {
+    "string": "Senha inválida. Tente novamente."
+  },
+  "invisivel": {
+    "string": "Invisível"
+  },
+  "invisivelDesc": {
+    "string": "Seu currículo fica invisível para as empresas."
+  },
+  "janeiro": {
+    "string": "Janeiro"
+  },
+  "julho": {
+    "string": "Julho"
+  },
+  "junho": {
+    "string": "Junho"
+  },
+  "labelBusca": {
+    "string": "Buscar por cargo, cidade ou estado"
+  },
+  "labelDeclaracaoRacial": {
+    "string": "Informe sua cor ou raça"
+  },
+  "lazer": {
+    "string": "Lazer"
+  },
+  "leave.your.cv": {
+    "string": "É necessário preencher seu currículo para deixá-lo com a empresa. Após o preenchimento retorne ao site da empresa e deixe seu currículo."
+  },
+  "leave.your.cv.company": {
+    "string": "Você já pode deixar seu currículo com a empresa, mas quanto mais completo, mais chances."
+  },
+  "leitura": {
+    "developer_comment": "capacidade de leitura em um determinado idioma",
+    "string": "leitura"
+  },
+  "leitura.obrigatorio": {
+    "string": "O campo leitura é obrigatório"
+  },
+  "libras": {
+    "string": "Usuário de libras"
+  },
+  "limitacoes.associadas": {
+    "string": "Limitações associadas às seguintes áreas de habilidades adaptativas:"
+  },
+  "linkMeuPerfil": {
+    "string": "Acessar a página meu-perfil"
+  },
+  "linkdin.invalido": {
+    "string": "Insira uma URL de perfil do LinkedIn válida"
+  },
+  "logoTitle": {
+    "string": "Logo da Vagas.com"
+  },
+  "maio": {
+    "string": "Maio"
+  },
+  "maisInfo": {
+    "string": "Mais informações sobre o campo de declaração racial"
+  },
+  "mandatory.country": {
+    "string": "O campo país é obrigatório"
+  },
+  "mandatory.document": {
+    "string": "O campo documento é obrigatório"
+  },
+  "mapaCarreiras": {
+    "string": "Mapa VAGAS de Carreiras"
+  },
+  "marco": {
+    "string": "Março"
+  },
+  "membros.inferiores": {
+    "string": "Deficiência em membros inferiores"
+  },
+  "membros.inferiores.superiores": {
+    "string": "Deficiência em membros superiores e inferiores"
+  },
+  "membros.superiores": {
+    "string": "Deficiência em membros superiores"
+  },
+  "mesConclusao": {
+    "string": "Selecione o mês de conclusão"
+  },
+  "mesObrigatorio": {
+    "string": "Este campo é obrigatório."
+  },
+  "meu.endereco": {
+    "string": "Meu endereço"
+  },
+  "meuPerfil": {
+    "string": "Meu perfil"
+  },
+  "monoparesia": {
+    "string": "Monoparesia"
+  },
+  "monoplegia": {
+    "string": "Monoplegia"
+  },
+  "msgDeclaracaoRacial": {
+    "string": "A Vagas.com acredita na igualdade de direitos e oportunidades para todas as pessoas. Por isso, está coletando informações sobre a autodeclaração racial dos candidatos, de acordo com as identificações e terminologias do IBGE."
+  },
+  "msgErro": {
+    "string": "Ocorreu um erro, tente novamente!"
+  },
+  "msgModalInclusaop1": {
+    "string": "A Vagas.com acredita na igualdade de direitos e oportunidades para todas as pessoas. Por isso, está coletando informações sobre a autodeclaração racial dos candidatos."
+  },
+  "msgModalInclusaop2": {
+    "string": "Apenas empresas que assinarem um termo de compromisso com a inclusão poderão utilizar a autodeclaração de raça."
+  },
+  "msgModalInclusaop3": {
+    "string": "Segundo o IBGE (2016) mais de 54% da população se autodeclara preta ou parda (negra). Porém, no mercado de trabalho há clara desigualdade, já que pretos e pardos são 63,9% dos desempregados (PNAD Contínua Trimestral, maio de 2019) e representam, desproporcionalmente, apenas 5% dos cargos executivos nas 500 maiores empresas do Brasil (Institutos Ethos, 2015)."
+  },
+  "msgSobre": {
+    "string": "Sobre o Vagas.com.br"
+  },
+  "msgSucesso": {
+    "string": "Dados salvos com sucesso."
+  },
+  "mudez": {
+    "string": "Mudez"
+  },
+  "multinacional": {
+    "string": "Multinacional"
+  },
+  "na.cidade": {
+    "string": "Na cidade de"
+  },
+  "nacional": {
+    "string": "Nacional"
+  },
+  "nacionalidade": {
+    "string": "Nacionalidade"
+  },
+  "nacionalidadeObrigatorio": {
+    "string": "O campo nacionalidade é obrigatório."
+  },
+  "nacionality.required": {
+    "string": "O campo país de nacionalidade é obrigatório"
+  },
+  "nanismo": {
+    "string": "Nanismo"
+  },
+  "nao": {
+    "string": "Não"
+  },
+  "nao.podem.ser.repetidos": {
+    "string": "Os campos áreas de interesse não podem ser repetidos"
+  },
+  "naoInformado": {
+    "string": "Não informado"
+  },
+  "naoPreenchido": {
+    "string": "Não Preenchido"
+  },
+  "naoTem": {
+    "string": "(não tem)"
+  },
+  "nenhumIdiomaAdicionado": {
+    "string": "Nenhum idioma adicionado."
+  },
+  "nenhumaEmpresaAdicionada": {
+    "string": "Nenhuma empresa adicionada."
+  },
+  "new.email": {
+    "string": "Novo e-mail"
+  },
+  "nivel.auditiva": {
+    "string": "Nivel de deficiência auditiva"
+  },
+  "nivel.cargo": {
+    "string": "Nivel"
+  },
+  "nivel.escolaridade.obrigatorio": {
+    "string": "O campo nível de escolaridade é obrigatório"
+  },
+  "nivelObrigatorio": {
+    "string": "O campo nível é obrigatório"
+  },
+  "nivel_de_escolaridade": {
+    "string": "Nível de escolaridade"
+  },
+  "no.course": {
+    "string": "<strong>Seu currículo não tem um curso preenchido</strong>"
+  },
+  "noCoursesAdded": {
+    "string": "Nenhum curso adicionado."
+  },
+  "nome": {
+    "string": "Nome"
+  },
+  "nome.completo": {
+    "string": "Nome Completo"
+  },
+  "nome.grande": {
+    "string": "Nome é muito grande."
+  },
+  "nome.obrigatorio": {
+    "string": "O campo nome é obrigatório."
+  },
+  "nomeDoCursoForm.required": {
+    "string": "O campo nome do curso é obrigatório"
+  },
+  "novembro": {
+    "string": "Novembro"
+  },
+  "nãoPossuoConhecimentoEmIdiomas": {
+    "string": "Não possuo conhecimento em idiomas estrangeiros."
+  },
+  "nãoPossuoExperiênciaProfissional": {
+    "string": "Não possuo experiência profissional"
+  },
+  "oQueFalta": {
+    "string": "O que falta?"
+  },
+  "objetivos": {
+    "string": "Objetivos"
+  },
+  "obrigatorio": {
+    "string": "(Obrigatório)"
+  },
+  "obrigatorio.bairro": {
+    "string": "O campo bairro é obrigatório"
+  },
+  "obrigatorio.celular": {
+    "string": "O campo Telefone Celular é obrigatório"
+  },
+  "obrigatorio.cep": {
+    "string": "O campo CEP é obrigatório"
+  },
+  "obrigatorio.cidade": {
+    "string": "O campo cidade é obrigatório"
+  },
+  "obrigatorio.codigo.postal": {
+    "string": "O campo código postal é obrigatório"
+  },
+  "obrigatorio.detalhamento.fisica": {
+    "string": "O campo detalhamento de deficiência física é obrigatório"
+  },
+  "obrigatorio.detalhamento.visual": {
+    "string": "O campo detalhamento de deficiência visual é obrigatório"
+  },
+  "obrigatorio.endereco": {
+    "string": "O campo endereço é obrigatório"
+  },
+  "obrigatorio.estado": {
+    "string": "O campo estado é obrigatório"
+  },
+  "obrigatorio.nivel.auditiva": {
+    "string": "O campo nivel de deficiência auditiva é obrigatório"
+  },
+  "obrigatorio.pais": {
+    "string": "O campo país é obrigatório"
+  },
+  "obrigatorio.telefone": {
+    "string": "O campo telefone é obrigatório"
+  },
+  "obrigatorio.tipo.auditiva": {
+    "string": "O campo tipo de deficiência auditiva é obrigatório"
+  },
+  "obrigatorio.tipo.fala": {
+    "string": "O campo tipo de deficiência de fala é obrigatório"
+  },
+  "obrigatorio.tipo.fisica": {
+    "string": "O campo tipo de deficiência física é obrigatório"
+  },
+  "obrigatorio.tipo.visual": {
+    "string": "O campo tipo de deficiência visual é obrigatório"
+  },
+  "obrigatorio.uf": {
+    "string": "O campo estado/província/região é obrigatório"
+  },
+  "observacoes.deficiencias": {
+    "string": "Descreva condições especiais de ferramentas online, transporte, trabalho, acompanhamento, etc."
+  },
+  "observacoes.necessidades": {
+    "string": "Observações e necessidades"
+  },
+  "only.in.location": {
+    "string": "somente no local selecionado"
+  },
+  "oralizado": {
+    "string": "Oralizado"
+  },
+  "ostomia": {
+    "string": "Ostomia"
+  },
+  "outra.cidade": {
+    "string": "Outra cidade de referência"
+  },
+  "outros.beneficios": {
+    "string": "Outros benefícios"
+  },
+  "outros_objetivos": {
+    "string": "Outros objetivos"
+  },
+  "outubro": {
+    "string": "Outubro"
+  },
+  "paginaDeServico": {
+    "string": "Página de serviços"
+  },
+  "paisIdForm.required": {
+    "string": "O campo país onde cursou é obrigatório"
+  },
+  "paises": {
+    "string": "País(es)"
+  },
+  "paisesObrigatorio": {
+    "string": "O campo país(es) é obrigatório."
+  },
+  "paraSuaCarreira": {
+    "string": "Para sua carreira"
+  },
+  "paralisia.cerebral": {
+    "string": "Paralisia cerebral"
+  },
+  "paraparesia": {
+    "string": "Paraparesia"
+  },
+  "paraplegia": {
+    "string": "Paraplegia"
+  },
+  "pcdInfo.attachedFile": {
+    "string": "Arquivo anexado em"
+  },
+  "pcdInfo.equal.opportunities": {
+    "string": "Acreditamos na colocação competitiva, em igualdade de oportunidades com as demais pessoas. Por isso, sugerimos o preenchimento deste campo."
+  },
+  "pcdInfo.observacao": {
+    "string": "Observação"
+  },
+  "percentPreenchimentoCV": {
+    "string": "Porcentagem de preenchimento do currículo"
+  },
+  "perfilComportamental": {
+    "string": "Perfil comportamental"
+  },
+  "personalInfo.age": {
+    "string": "Idade"
+  },
+  "personalInfo.dataNascimento": {
+    "string": "Data de nascimento"
+  },
+  "personalInfo.documentNumberLimit": {
+    "string": "O número do documento é muito grande"
+  },
+  "personalInfo.documents": {
+    "string": "Documentos"
+  },
+  "personalInfo.duplicateDocument": {
+    "string": "Os campos documento não podem ser repetidos"
+  },
+  "personalInfo.file": {
+    "string": "Documento"
+  },
+  "personalInfo.fileNumber": {
+    "string": "Número do documento"
+  },
+  "personalInfo.genderIdentity": {
+    "string": "Com qual identidade de gênero você se identifica?"
+  },
+  "personalInfo.nacionality": {
+    "string": "País de nacionalidade"
+  },
+  "personalInfo.years.old": {
+    "string": "{age} anos"
+  },
+  "pessoas_com_deficiencias": {
+    "string": "Pessoas com Deficiências (PcD)"
+  },
+  "placeholderBusca": {
+    "string": "Digite um cargo, cidade ou estado"
+  },
+  "porte": {
+    "string": "Porte"
+  },
+  "porteObrigatorio": {
+    "string": "O campo porte é obrigatório."
+  },
+  "possui.deficiencia": {
+    "string": "Você possui alguma deficiência?"
+  },
+  "posterior.inicio": {
+    "string": "Mês e ano de fim devem ser posteriores à data de início"
+  },
+  "precisa.interprete": {
+    "string": "precisa de intérprete"
+  },
+  "preenchimentoCV": {
+    "string": "Preenchimento do currículo"
+  },
+  "pretensao.grande": {
+    "string": "Pretensão salarial é muito grande"
+  },
+  "pretensao_salarial": {
+    "string": "Pretensão salarial"
+  },
+  "procurar.cargo": {
+    "string": "Procure o seu cargo ou digite um novo"
+  },
+  "procurarCargo": {
+    "string": "Procure pelo cargo ou insira um novo"
+  },
+  "procure.instituicao": {
+    "string": "Procure pela instituição ou digite uma nova"
+  },
+  "quemContrata": {
+    "string": "Quem contrata"
+  },
+  "recursos.comunidade": {
+    "string": "Utilização de recursos da comunidade"
+  },
+  "redes_sociais": {
+    "string": "Redes Sociais"
+  },
+  "regiao_de_interesse": {
+    "string": "Região de interesse"
+  },
+  "remover": {
+    "string": "REMOVER"
+  },
+  "removerDocumento": {
+    "string": "Remover documento"
+  },
+  "requires.registered.training": {
+    "string": "Você precisa de ao menos 1 formação cadastrada"
+  },
+  "resumo-profissional.label": {
+    "string": "Faça um resumo de suas qualificações, habilidades e realizações profissionais."
+  },
+  "resumo_profissional": {
+    "string": "Resumo Profissional"
+  },
+  "saiba.mais": {
+    "string": "Saiba mais"
+  },
+  "sair": {
+    "string": "Sair"
+  },
+  "salvar": {
+    "string": "SALVAR"
+  },
+  "saude.seguranca": {
+    "string": "Saúde e segurança"
+  },
+  "segmento": {
+    "string": "Segmento"
+  },
+  "segmentoObrigatorio": {
+    "string": "O campo segmento é obrigatório."
+  },
+  "select": {
+    "string": "Selecione..."
+  },
+  "send.cv": {
+    "string": "Enviar currículo"
+  },
+  "senha": {
+    "string": "Senha"
+  },
+  "servicos": {
+    "string": "serviços"
+  },
+  "setembro": {
+    "string": "Setembro"
+  },
+  "setenta.cinco": {
+    "string": "Cidades no raio de 75 km de"
+  },
+  "sim": {
+    "string": "Sim"
+  },
+  "socialMedia.linkedin": {
+    "string": "LinkedIn"
+  },
+  "socialMedia.otherSocialMedia": {
+    "string": "Outro Site de Relacionamento"
+  },
+  "socialMedia.personalSiteOrBlog": {
+    "string": "Site Pessoal/Blog"
+  },
+  "somente.letras": {
+    "string": "Caracteres inválidos, apenas letras são permitidas."
+  },
+  "state": {
+    "string": "Estado onde cursou"
+  },
+  "substituir.audiometria": {
+    "string": "Substituir Audiometria"
+  },
+  "substituir.laudo": {
+    "string": "Substituir Laudo"
+  },
+  "surdez.acentuada": {
+    "string": "de 56 a 70 dB – Surdez Acentuada"
+  },
+  "surdez.moderada": {
+    "string": "de 41 a 55 dB – Surdez Moderada"
+  },
+  "surdez.profunda": {
+    "string": "Acima de 91 dB – Surdez Profunda"
+  },
+  "surdez.severa": {
+    "string": "de 71 a 90 dB – Surdez Severa"
+  },
+  "tamanhoArquivo": {
+    "string": "O tamanho aceito é de até 2MB."
+  },
+  "telefone.curto": {
+    "string": "Telefone Celular é muito curto"
+  },
+  "termino": {
+    "string": "Término"
+  },
+  "termos_de_uso": {
+    "string": "Termos de uso"
+  },
+  "tetraparesia": {
+    "string": "Tetraparesia"
+  },
+  "tetraplegia": {
+    "string": "Tetraplegia"
+  },
+  "texto.audiometria": {
+    "string": "A audiometria pode ser emitida pelo médico do trabalho de uma empresa ou um outro médico, que ateste a deficiência de acordo com as definições do decreto nº 3.298/99 (artigos 3º e 4º) e com as alterações dadas pelo decreto nº 5.296/2004."
+  },
+  "tipo.auditiva": {
+    "string": "Tipo de deficiência auditiva"
+  },
+  "tipo.deficiencia": {
+    "string": "Qual o tipo de deficiência?"
+  },
+  "tipo.deficiencia.fala": {
+    "string": "Tipo de deficiência de fala"
+  },
+  "tipo.deficiencia.fisica": {
+    "string": "Tipo de deficiência física"
+  },
+  "tipo.visual": {
+    "string": "Tipo de deficiência visual"
+  },
+  "tipoDoCursoForm.required": {
+    "string": "O campo tipo do curso é obrigatório"
+  },
+  "titulo.audiometria": {
+    "string": "Anexar audiometria"
+  },
+  "titulo.laudo": {
+    "string": "O laudo pode ser emitido por médico do trabalho de uma empresa ou um outro médico, que ateste a deficiência de acordo com as definições do decreto nº 3.298/99 (artigos 3º e 4º) e com as alterações dadas pelo decreto nº 5.296/2004."
+  },
+  "titulo.limitacoes": {
+    "string": "Limitações associadas a duas ou mais áreas de habilidades adaptativas, tais como:"
+  },
+  "trabalhar.outra.cidade": {
+    "string": "Consideraria trabalhar em outra cidade?"
+  },
+  "trabalho": {
+    "string": "Trabalho"
+  },
+  "transgeneroDesc": {
+    "string": "<strong>Transgênero:</strong> pessoa que se identifica com algum gênero diferente do atribuído no nascimento."
+  },
+  "triparesia": {
+    "string": "Triparesia"
+  },
+  "triplegia": {
+    "string": "Triplegia"
+  },
+  "ufIdForm.required": {
+    "string": "O campo estado onde cursou é obrigatório"
+  },
+  "ultima_atualizacao": {
+    "string": "Última atualização"
+  },
+  "ultimo-cargo": {
+    "string": "Último cargo"
+  },
+  "ultimo.salario.grande": {
+    "string": "Último salário é muito grande"
+  },
+  "ultimoCargoObrigatorio": {
+    "string": "O campo último cargo é obrigatório."
+  },
+  "ultimo_salario": {
+    "string": "Último salário"
+  },
+  "ultimo_salario_e_beneficios": {
+    "string": "Último salário e benefícios"
+  },
+  "unilateral": {
+    "string": "unilateral"
+  },
+  "usuario.libras": {
+    "string": "usuário de libras"
+  },
+  "vagas.com": {
+    "string": "Vagas.com"
+  },
+  "vagasProfissoes": {
+    "string": "Vagas Profissões"
+  },
+  "vagasRecomendadas": {
+    "string": "Minhas vagas recomendadas"
+  },
+  "validate.date.of.birth": {
+    "string": "Insira uma data de nascimento válida"
+  },
+  "valor.ultimo.salario": {
+    "string": "Insira o valor cheio (sem os centavos)."
+  },
+  "valorMensal": {
+    "string": "Valor Mensal"
+  },
+  "viajar.pela.empresa": {
+    "string": "Aceitaria viajar pela empresa?"
+  },
+  "vinte.cinco": {
+    "string": "Cidades no raio de 25 km de"
+  },
+  "visao.monocular": {
+    "string": "Visão monocular"
+  },
+  "visao.somatorio": {
+    "string": "Somatória da medida do campo visual em ambos os olhos for igual ou menor que 60º"
+  },
+  "visibilidadeCV": {
+    "string": "Visibilidade do currículo"
+  },
+  "visibilidadeDaConta": {
+    "string": "Visibilidade da conta"
+  },
+  "visivel": {
+    "string": "Visível"
+  },
+  "visivelDesc": {
+    "string": "Seu currículo fica visível para que empresas possam encontrá-lo e também entrar em contato com você."
+  },
+  "visual": {
+    "string": "Visual"
+  },
+  "visualizarAdendos": {
+    "string": "Visualizar adendos"
+  }
+}
