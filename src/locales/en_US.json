@@ -1,0 +1,834 @@
+{
+  "CVbom": {
+    "string": "Enter more information and have better chances :)"
+  },
+  "CVcompleto": {
+    "string": "Now just apply for the best places :D"
+  },
+  "CVincompleto": {
+    "string": "Fill out your resume to apply for job openings :D"
+  },
+  "CVotimo": {
+    "string": "Just missing some information to have a champion resume!"
+  },
+  "abril": {
+    "string": "April"
+  },
+  "add.area.interesse": {
+    "string": "Add area of interest"
+  },
+  "additionalInfo": {
+    "string": "Additional information"
+  },
+  "address.city": {
+    "string": "City"
+  },
+  "address.country": {
+    "string": "Country"
+  },
+  "address.forgotZipcode": {
+    "string": "I forgot my postal code"
+  },
+  "address.neighborhood": {
+    "string": "Neighborhood/Village"
+  },
+  "address.state": {
+    "string": "State"
+  },
+  "address.zipcode": {
+    "string": "Postal code"
+  },
+  "adicionarCurso": {
+    "string": "add Course"
+  },
+  "adicionarEmpresa": {
+    "string": "add company"
+  },
+  "adicionarFoto": {
+    "string": "Add Photo"
+  },
+  "adicionarIdioma": {
+    "string": "Add language"
+  },
+  "adicionardocumento": {
+    "string": "Add document"
+  },
+  "agosto": {
+    "string": "August"
+  },
+  "ajuda": {
+    "string": "Help"
+  },
+  "alerta.ordem.cronologica": {
+    "string": "Entries will be ordered automatically from most recent to oldest."
+  },
+  "alerta.ordem.experiencias": {
+    "string": "Don't worry about the order of your experience."
+  },
+  "alertasDeVagas": {
+    "string": "Alerts for vacancies"
+  },
+  "alteracoes.fala": {
+    "string": "Severe speech defects"
+  },
+  "alterarFoto": {
+    "string": "Change Photo"
+  },
+  "amputacao": {
+    "string": "Amputation or loss of a member"
+  },
+  "anexar.audiometria": {
+    "string": "Attach Audiometry"
+  },
+  "anexar.laudo": {
+    "string": "Attach report"
+  },
+  "anoConclusao": {
+    "string": "Select the year of conclusion"
+  },
+  "anoEMesAnterioresAtual": {
+    "string": "Month and year of conclusion must be prior to the current date"
+  },
+  "anoEMesDeConclusaoForm.required": {
+    "string": "Select the month and year of conclusion"
+  },
+  "anoEMesPosterioresAtual": {
+    "string": "Month and year of conclusion must be after the current date"
+  },
+  "aoMenosUmaPosicaoObrigatorio": {
+    "string": "Select at least one option."
+  },
+  "area.cargo": {
+    "string": "Area"
+  },
+  "areas_de_interesse": {
+    "string": "Areas of interest"
+  },
+  "arquivo.anexado": {
+    "string": "Attached file:"
+  },
+  "arquivo.anexado.em": {
+    "string": "File attached on"
+  },
+  "atual": {
+    "string": "current"
+  },
+  "atualmente": {
+    "string": "currently"
+  },
+  "auditiva": {
+    "string": "Auditory"
+  },
+  "baixa.visao": {
+    "string": "Subnormal or Low Vision"
+  },
+  "beneficios": {
+    "string": "Benefits"
+  },
+  "bilateral": {
+    "string": "bilateral"
+  },
+  "cancelar": {
+    "string": "CANCEL"
+  },
+  "caracteresInvalidos": {
+    "string": "Invalid characters! Use letters (a-z), numbers (0-9) or periods (.)."
+  },
+  "cargo.grande": {
+    "string": "The role title is too big."
+  },
+  "cargo_desejado": {
+    "string": "Role"
+  },
+  "carregando": {
+    "string": "Loading..."
+  },
+  "cegueira": {
+    "string": "Blindness"
+  },
+  "cep.nao.encontrado": {
+    "string": "We did not find this zip code"
+  },
+  "cisgeneroDesc": {
+    "string": "<strong>Cisgender:</strong> person who identifies with the gender (male / female) assigned at birth."
+  },
+  "city": {
+    "string": "City"
+  },
+  "classifiqueOcupacoes": {
+    "string": "Classify your 3 main occupations at the company:"
+  },
+  "classifiqueOcupacoesMensagem": {
+    "string": "Classify up to 3 main occupations you played or currently holds in the company. If you are still exercising an occupation, do not complete the final year."
+  },
+  "complementaryCourses.area": {
+    "string": "Postgraduate area"
+  },
+  "complementaryCourses.classification": {
+    "string": "Course Classification"
+  },
+  "complementaryCourses.conclusionDate": {
+    "string": "Month/Year of Graduation"
+  },
+  "complementaryCourses.conclusionDateInfo": {
+    "string": "If you are still enrolled in a course, include the Month/Year that you expect to conclude the course."
+  },
+  "complementaryCourses.courseName": {
+    "string": "Name of course"
+  },
+  "complementaryCourses.courseType": {
+    "string": "Type of course"
+  },
+  "complementaryCourses.currentSituation": {
+    "string": "Current status"
+  },
+  "complementaryCourses.duration": {
+    "string": "Course Duration"
+  },
+  "complementaryCourses.editCourse.part1": {
+    "string": "Don't worry about the order of your experience."
+  },
+  "complementaryCourses.editCourse.part2": {
+    "string": "Entries will be ordered automatically from most recent to oldest."
+  },
+  "complementaryCourses.institution": {
+    "string": "Institution"
+  },
+  "comunicacao": {
+    "string": "Communication"
+  },
+  "concluir.alteracao.email": {
+    "string": "To finish changing the email, click on the link we sent to"
+  },
+  "confidencial": {
+    "string": "Confidential"
+  },
+  "configsPrivacidade": {
+    "string": "Privacy Settings"
+  },
+  "configuracoes": {
+    "string": "Settings"
+  },
+  "confira.formato": {
+    "string": "Check the format (DOC, DOCX, ODT, PDF, JPG, JPEG and PNG), file size (maximum 6MB) and try again"
+  },
+  "contactInfo.acceptAlerts": {
+    "string": "I agree to receive messages about my selection processes (SMS and WhatsApp)"
+  },
+  "contactInfo.cellphone": {
+    "string": "Cell phone number"
+  },
+  "contactInfo.contactInfo": {
+    "string": "Contact Information"
+  },
+  "contactInfo.not.cell": {
+    "string": "Enter your cell phone number."
+  },
+  "contactInfo.not.telephone": {
+    "string": "Enter your phone number."
+  },
+  "contactInfo.telephone": {
+    "string": "Telephone number"
+  },
+  "conversacao": {
+    "developer_comment": "capacidade de conversação em um determinado idioma",
+    "string": "conversation"
+  },
+  "country": {
+    "string": "Country where you studied"
+  },
+  "cpf.valido": {
+    "string": "Enter a valid CPF"
+  },
+  "cuidado.pessoal": {
+    "string": "Personal Care"
+  },
+  "curriculo": {
+    "string": "Resume"
+  },
+  "curriculo.aberto": {
+    "string": "View open curriculum"
+  },
+  "curriculo.description": {
+    "string": "<strong>Caution:</strong> when you apply for a position, the company receives a link to view your resume online. So, be careful when making changes for a specific vacancy, as all companies will have access to the changes made."
+  },
+  "curriculo.informacoesComplementares": {
+    "string": "Additional Information"
+  },
+  "curriculo.objetivos": {
+    "string": "Objectives"
+  },
+  "curriculo.outrosObjetivos": {
+    "string": "Other Objectives"
+  },
+  "curriculo.ultimoSalarioBeneficios": {
+    "string": "Last Salary and Benefits"
+  },
+  "curriculoPDF.download": {
+    "string": "Download curriculum"
+  },
+  "cursos": {
+    "string": "Courses"
+  },
+  "dadosPessoais": {
+    "string": "Personal Data"
+  },
+  "data.referencia": {
+    "string": "Reference Date"
+  },
+  "date.less.current.": {
+    "string": "Select a date prior to the current date"
+  },
+  "declaracao_racial": {
+    "string": "Racial Declaration"
+  },
+  "deficiencia.renal": {
+    "string": "Chronic kidney disease"
+  },
+  "deformidade": {
+    "string": "Members with congenital or acquired deformities"
+  },
+  "delcaracaoRacial": {
+    "string": "Racial declaration:"
+  },
+  "descDeclaracaoRacial": {
+    "string": "The following question is not mandatory. Only companies that sign a term of commitment to inclusion will be able to use the self-declaration of race."
+  },
+  "descricao": {
+    "string": "Description"
+  },
+  "descricaoInfoAdicional": {
+    "string": "A free space to write additional information to compliment your resume. For example, you can mention relevant certificates in your profession, other activities and interests, etc."
+  },
+  "desired.agree.travel": {
+    "string": "Willing to travel for the company."
+  },
+  "desired.consider.other.regions": {
+    "string": "Will consider offers for other regions."
+  },
+  "desired.region": {
+    "string": "Preference for the region of"
+  },
+  "desired.salary.value": {
+    "string": "Range of"
+  },
+  "dezembro": {
+    "string": "December"
+  },
+  "edit": {
+    "string": "Edit"
+  },
+  "em": {
+    "string": "in"
+  },
+  "emailEditForm.confirmEmail": {
+    "string": "New e-mail confirmation"
+  },
+  "emailEditForm.currentPassword": {
+    "string": "Your current password"
+  },
+  "emailEditForm.email": {
+    "string": "Email"
+  },
+  "emailEditForm.emailDontMatch": {
+    "string": "The e-mail and the confirmation don't match"
+  },
+  "emailEditForm.profileAssociated": {
+    "string": "This email is already associated with another profile."
+  },
+  "emailEditForm.typePassword": {
+    "string": "Enter the Vagas password."
+  },
+  "emailEditForm.validEmail": {
+    "string": "Insert a valid e-mail."
+  },
+  "empregoAtual": {
+    "string": "If it is your current job leave blank."
+  },
+  "empresa": {
+    "string": "Company"
+  },
+  "empresas": {
+    "string": "Companies"
+  },
+  "endereco": {
+    "string": "Address"
+  },
+  "erro.formato.arquivo": {
+    "string": "Unable to attach file!"
+  },
+  "escolaridade": {
+    "string": "Schooling"
+  },
+  "escrita": {
+    "developer_comment": "capacidade de escrita em um determinado idioma",
+    "string": "writing"
+  },
+  "excluirConta": {
+    "string": "Delete your account"
+  },
+  "excluirFoto": {
+    "string": "Delete Photo"
+  },
+  "exemplos.beneficios": {
+    "string": "Non-monetary benefits that you receive or used to receive, such as meal vouchers, transportation vouchers, etc."
+  },
+  "exemplos.cargos": {
+    "string": "Examples: Receptionist, Sales Consultant, Building Technician, etc."
+  },
+  "fala": {
+    "string": "Speech"
+  },
+  "fevereiro": {
+    "string": "February"
+  },
+  "fisica": {
+    "string": "Physical"
+  },
+  "formacao": {
+    "string": "Formation"
+  },
+  "formacaoAcademica": {
+    "string": "Academic and Complementary training"
+  },
+  "formatos.arquivos": {
+    "string": "Formats: DOC, DOCX, ODT, PDF, JPG, JPEG and PNG (maximum 6MB)"
+  },
+  "foto": {
+    "string": "Photo"
+  },
+  "geral": {
+    "string": "General"
+  },
+  "habilidade.academica": {
+    "string": "Academic Skill"
+  },
+  "habilidade.social": {
+    "string": "Social Skill"
+  },
+  "hemiparesia": {
+    "string": "Hemiparesis"
+  },
+  "hemiplegia": {
+    "string": "Hemiplegia"
+  },
+  "historico": {
+    "string": "Historic"
+  },
+  "historicoProfissional": {
+    "string": "Professional History"
+  },
+  "idiomaLabel": {
+    "string": "Language"
+  },
+  "idiomas": {
+    "string": "Languages"
+  },
+  "inclusaoRacial": {
+    "string": "Racial Inclusion"
+  },
+  "indique.cargo.desejado": {
+    "string": "Indicate the desired position."
+  },
+  "informacoes_de_contato": {
+    "string": "Contact Information"
+  },
+  "inicio": {
+    "developer_comment": "Refere-se ao mês e ano de inicio da experiência profissional na empresa",
+    "string": "Start"
+  },
+  "inicio.cargo": {
+    "string": "Start"
+  },
+  "intelectual.mental": {
+    "string": "Intellectual/Mental"
+  },
+  "interprete": {
+    "string": "Need an interpreter"
+  },
+  "invalid.password": {
+    "string": "Invalid password. Try again."
+  },
+  "janeiro": {
+    "string": "January"
+  },
+  "julho": {
+    "string": "July"
+  },
+  "junho": {
+    "string": "June"
+  },
+  "lazer": {
+    "string": "Recreation"
+  },
+  "leitura": {
+    "developer_comment": "capacidade de leitura em um determinado idioma",
+    "string": "reading"
+  },
+  "libras": {
+    "string": "Pound Signs"
+  },
+  "limitacoes.associadas": {
+    "string": "Limitations associated with the following areas of adaptive skills:"
+  },
+  "linkdin.invalido": {
+    "string": "Insert a valid LinkedIn Profile URL"
+  },
+  "maio": {
+    "string": "May"
+  },
+  "marco": {
+    "string": "March"
+  },
+  "membros.inferiores": {
+    "string": "Leg disability"
+  },
+  "membros.inferiores.superiores": {
+    "string": "Arm and Leg disability"
+  },
+  "membros.superiores": {
+    "string": "Arm disability"
+  },
+  "mesConclusao": {
+    "string": "Select the month of conclusion"
+  },
+  "meuPerfil": {
+    "string": "My profile"
+  },
+  "monoparesia": {
+    "string": "Monoparesis"
+  },
+  "monoplegia": {
+    "string": "Monoplegia"
+  },
+  "msgDeclaracaoRacial": {
+    "string": "VAGAS.com believes in equal rights and opportunities for all people. For this reason, we are collecting information on the candidates' racial self-declaration, according to the IBGE's identifications and terminologies."
+  },
+  "msgModalInclusaop1": {
+    "string": "VAGAS.com believes in equal rights and opportunities for all people. For this reason, we are collecting information on the candidates' racial self-declaration."
+  },
+  "msgModalInclusaop2": {
+    "string": "Only companies that sign a term of commitment to inclusion will be able to use the self-declaration of race."
+  },
+  "msgModalInclusaop3": {
+    "string": "According to IBGE (2016) more than 54% of the population declares itself to be black or mulatto. However, in the labor market there is clear inequality, since blacks and mulattos are 63.9% of the unemployed (PNAD Continuous Quarterly, May 2019) and represent, disproportionately, only 5% of executive positions in the 500 largest companies in Brazil (Institutes Ethos, 2015)."
+  },
+  "msgSucesso": {
+    "string": "Data saved successfully."
+  },
+  "mudez": {
+    "string": "Muteness"
+  },
+  "nacionalidade": {
+    "string": "Nationality"
+  },
+  "nao": {
+    "string": "No"
+  },
+  "naoPreenchido": {
+    "string": "Not filled"
+  },
+  "nenhumIdiomaAdicionado": {
+    "string": "No language has been added."
+  },
+  "nenhumaEmpresaAdicionada": {
+    "string": "No company has been added."
+  },
+  "new.email": {
+    "string": "New email"
+  },
+  "nivel.auditiva": {
+    "string": "Level of hearing impairment"
+  },
+  "nivel_de_escolaridade": {
+    "string": "Education level"
+  },
+  "noCoursesAdded": {
+    "string": "No course added."
+  },
+  "nome": {
+    "string": "Name"
+  },
+  "nome.completo": {
+    "string": "Full Name"
+  },
+  "novembro": {
+    "string": "November"
+  },
+  "nãoPossuoConhecimentoEmIdiomas": {
+    "string": "I have no foreign language skills"
+  },
+  "nãoPossuoExperiênciaProfissional": {
+    "string": "I have no profissional experience"
+  },
+  "oQueFalta": {
+    "string": "What is missing?"
+  },
+  "objetivos": {
+    "string": "Objectives"
+  },
+  "obrigatorio": {
+    "string": "(Required)"
+  },
+  "observacoes.deficiencias": {
+    "string": "Describe special conditions for online tools, transport, work, follow-up, etc."
+  },
+  "observacoes.necessidades": {
+    "string": "Comments and needs"
+  },
+  "only.in.location": {
+    "string": "only in the selected location"
+  },
+  "oralizado": {
+    "string": "oralized"
+  },
+  "ostomia": {
+    "string": "Stoma"
+  },
+  "outros.beneficios": {
+    "string": "Other benefits"
+  },
+  "outros_objetivos": {
+    "string": "Other objectives"
+  },
+  "outubro": {
+    "string": "October"
+  },
+  "paginaDeServico": {
+    "string": "Service page"
+  },
+  "paises": {
+    "string": "Country(ies)"
+  },
+  "paralisia.cerebral": {
+    "string": "Cerebral palsy"
+  },
+  "paraparesia": {
+    "string": "Paraparesis"
+  },
+  "paraplegia": {
+    "string": "Paraplegia"
+  },
+  "pcdInfo.equal.opportunities": {
+    "string": "We believe in competitive placement, in equal opportunities with other people. Therefore, we suggest filling this field."
+  },
+  "pcdInfo.observacao": {
+    "string": "Comments"
+  },
+  "perfilComportamental": {
+    "string": "Behavioral profile"
+  },
+  "personalInfo.age": {
+    "string": "Age"
+  },
+  "personalInfo.file": {
+    "string": "Document"
+  },
+  "personalInfo.fileNumber": {
+    "string": "Number"
+  },
+  "personalInfo.genderIdentity": {
+    "string": "What gender identity do you identify with?"
+  },
+  "personalInfo.nacionality": {
+    "string": "Country"
+  },
+  "personalInfo.years.old": {
+    "string": "{age} years old."
+  },
+  "pessoas_com_deficiencias": {
+    "string": "People with Disabilities (PwD)"
+  },
+  "porte": {
+    "string": "Size"
+  },
+  "possui.deficiencia": {
+    "string": "Any disability?"
+  },
+  "posterior.inicio": {
+    "string": "The month and year you left must be after the date you started"
+  },
+  "precisa.interprete": {
+    "string": "need interpreter"
+  },
+  "preenchimentoCV": {
+    "string": "Curriculum Fill"
+  },
+  "pretensao_salarial": {
+    "string": "Wage claim"
+  },
+  "procurar.cargo": {
+    "string": "Search for your job title or enter a new one"
+  },
+  "procurarCargo": {
+    "string": "Search for an occupation or insert a new one"
+  },
+  "procure.instituicao": {
+    "string": "Search for the institution or enter a new one"
+  },
+  "recursos.comunidade": {
+    "string": "Use of community resources"
+  },
+  "redes_sociais": {
+    "string": "Social Networks"
+  },
+  "regiao_de_interesse": {
+    "string": "Region of interest"
+  },
+  "remover": {
+    "string": "REMOVE"
+  },
+  "requires.registered.training": {
+    "string": "You need at least 1 registered training"
+  },
+  "resumo-profissional.label": {
+    "string": "Make a summary of your qualifications, skills and professional accomplishments."
+  },
+  "resumo_profissional": {
+    "string": "Professional Resume"
+  },
+  "saiba.mais": {
+    "string": "Learn more"
+  },
+  "sair": {
+    "string": "Exit"
+  },
+  "salvar": {
+    "string": "SAVE"
+  },
+  "saude.seguranca": {
+    "string": "Health and safety"
+  },
+  "segmento": {
+    "string": "Sector"
+  },
+  "senha": {
+    "string": "Password"
+  },
+  "servicos": {
+    "string": "services"
+  },
+  "setembro": {
+    "string": "September"
+  },
+  "sim": {
+    "string": "Yes"
+  },
+  "socialMedia.linkedin": {
+    "string": "LinkedIn"
+  },
+  "socialMedia.otherSocialMedia": {
+    "string": "Other social website"
+  },
+  "socialMedia.personalSiteOrBlog": {
+    "string": "Personal website/Blog"
+  },
+  "somente.letras": {
+    "string": "Invalid characters, only letters are allowed."
+  },
+  "state": {
+    "string": "State where you studied"
+  },
+  "substituir.audiometria": {
+    "string": "Replace Audiometry"
+  },
+  "substituir.laudo": {
+    "string": "Replace report"
+  },
+  "surdez.acentuada": {
+    "string": "from 56 to 70 dB – Acute Deafness"
+  },
+  "surdez.moderada": {
+    "string": "from 41 to 55 dB – Moderate Deafness"
+  },
+  "surdez.profunda": {
+    "string": "Anacusis"
+  },
+  "surdez.severa": {
+    "string": "from 71 to 90 dB – Severe Deafness"
+  },
+  "termos_de_uso": {
+    "string": "Terms of Use"
+  },
+  "tetraplegia": {
+    "string": "Tetraplegia"
+  },
+  "tipo.auditiva": {
+    "string": "Detail of hearing impairment"
+  },
+  "tipo.deficiencia": {
+    "string": "What type of disability?"
+  },
+  "tipo.deficiencia.fala": {
+    "string": "Type of speech deficiency"
+  },
+  "tipo.deficiencia.fisica": {
+    "string": "Type of physical disability"
+  },
+  "tipo.visual": {
+    "string": "Type of visual impairment"
+  },
+  "titulo.audiometria": {
+    "string": "Audiometry can be issued by the occupational physician of a company or another physician, who attests to the disability in accordance with the definitions of decree nº 3.298/99 (articles 3 and 4) and with the changes given by decree nº 5.296/2004."
+  },
+  "titulo.laudo": {
+    "string": "The report can be issued by an occupational physician of a company or another physician, who attests to the disability in accordance with the definitions of decree nº 3.298/99 (articles 3 and 4) and with the amendments given by decree nº 5.296/2004."
+  },
+  "titulo.limitacoes": {
+    "string": "Limitations associated with two or more areas of adaptive skills, such as:"
+  },
+  "trabalhar.outra.cidade": {
+    "string": "Would you consider working in another city?"
+  },
+  "trabalho": {
+    "string": "Job"
+  },
+  "transgeneroDesc": {
+    "string": "<strong>Transgender:</strong> person who identifies with some gender other than that assigned at birth."
+  },
+  "triplegia": {
+    "string": "Triplegia"
+  },
+  "ultima_atualizacao": {
+    "string": "Last Update"
+  },
+  "ultimo-cargo": {
+    "string": "Last Position"
+  },
+  "ultimo_salario": {
+    "string": "Last Salary"
+  },
+  "ultimo_salario_e_beneficios": {
+    "string": "Last salary and benefits"
+  },
+  "unilateral": {
+    "string": "unilateral"
+  },
+  "usuario.libras": {
+    "string": "pound signs"
+  },
+  "vagas.com": {
+    "string": "Vagas.com"
+  },
+  "valor.ultimo.salario": {
+    "string": "Enter the full amount (without the cents)."
+  },
+  "valorMensal": {
+    "string": "Monthly Amount"
+  },
+  "viajar.pela.empresa": {
+    "string": "Would you be willing to travel for the company?"
+  },
+  "visao.monocular": {
+    "string": "Sum of the visual field measure in both eyes is equal to or less than 60º"
+  },
+  "visibilidadeDaConta": {
+    "string": "Account Visibility"
+  },
+  "visual": {
+    "string": "Visual"
+  },
+  "visualizarAdendos": {
+    "string": "View Addendums"
+  }
+}
